@@ -1,1 +1,1 @@
-echo "# SAMURAI - DEEPANSHU PRAJAPATI" > profile.md
+echo "# SAMURAI - DEEPANSHU PRAJAPATI"
